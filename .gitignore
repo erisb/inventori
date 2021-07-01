@@ -1,0 +1,6 @@
+.next
+node_modules
+server.js
+.env.local
+shipitfile.js
+ecosystem.config.js
